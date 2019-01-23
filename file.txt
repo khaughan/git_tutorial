@@ -1,1 +1,3 @@
 I am learning git. 
+
+Yo whaddup Nerd. just a git collaborater doin work ... yo-
